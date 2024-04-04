@@ -15,7 +15,7 @@ The Bus Ticket Booking System is a Python application built with Tkinter for the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/bus-ticket-booking-system.git
+    https://github.com/AyanSrivastava11/python_Project--Bus-Booking.git
     ```
 
 2. Install the required dependencies:
